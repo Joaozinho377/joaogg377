@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m **Joãozinho**
+- 👋 Hi, I’m _Joãozinho_
 - 📫 My contact email is [email] (Joaozinho377Contact@gmail.com)
 - 👀 I’m interested in learn about programming for work or even for fun
 - 🌱 I recently started learning the JavaScript programming language and Scratch
